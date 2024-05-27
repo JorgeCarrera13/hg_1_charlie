@@ -2,7 +2,7 @@
 - [x] Alfa
 - [x] Bravo 
 - [ ] Charlie
-- [ ] Delta
+- [x] Delta
 - [ ] Echo
 
 # Seleccione el tipo de actividad
